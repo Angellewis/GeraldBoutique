@@ -1,2 +1,2 @@
 # GeraldBoutique
-Sales system for small Business, C#
+Personalized sales system for small Business, C#
